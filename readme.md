@@ -13,6 +13,13 @@ The framework simulates real-world banking scenarios such as:
 
 ---
 
+## Author
+Davis Niranjan
+API / Automation Test Engineer
+
+
+---
+
 ##  Tech Stack
 - **Postman** – API test creation
 - **Newman** – CLI execution of Postman collections
@@ -36,6 +43,3 @@ node -v
 npm -v
 git --version
 ---
-## Author
-Davis Niranjan
-API / Automation Test Engineer
