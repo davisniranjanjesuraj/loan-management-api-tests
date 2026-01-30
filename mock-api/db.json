@@ -1,0 +1,20 @@
+{
+  "loans": [
+    {
+      "id": "6437",
+      "customerId": "CUST001",
+      "amount": 500000,
+      "tenureMonths": 24,
+      "interestRate": 10.5,
+      "status": "DISBURSED"
+    }
+  ],
+  "repayments": [
+    {
+      "id": "52c8",
+      "loanId": "6437",
+      "amount": 25000,
+      "paymentDate": "2026-01-29"
+    }
+  ]
+}
