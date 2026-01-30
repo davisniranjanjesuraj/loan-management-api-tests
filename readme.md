@@ -35,7 +35,7 @@ Verify:
 node -v
 npm -v
 git --version
-
-Author
+---
+## Author
 Davis Niranjan
 API / Automation Test Engineer
